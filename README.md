@@ -73,6 +73,7 @@ Follow these steps to set up the project locally:
     pip install xgboost
     pip install imbalanced-learn
     pip install matplotlib
+    pip install pyarrow
     ```
 
 ## Results
